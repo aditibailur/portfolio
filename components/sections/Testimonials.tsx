@@ -15,7 +15,7 @@ const testimonials = [
   },
   {
     quote: "Her research mindset and operational excellence truly stand out.",
-    author: "Atul Kochhar",
+    author: "Atul Kachare",
     role: "Mentor",
     rating: 5,
   },
