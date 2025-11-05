@@ -1,0 +1,27 @@
+{
+  "name": "Aditi Bailur - Frontend & UI/UX Developer",
+  "short_name": "Aditi Bailur",
+  "description": "Software engineering grad student passionate about crafting high-performance, scalable applications.",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#6366F1",
+  "background_color": "#F8FAFF",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
